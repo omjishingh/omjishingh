@@ -45,9 +45,9 @@ Building intelligent web applications with AI-powered customer support and secur
 
 ## 📫 Contact
 
-- 📧 Email: **omjishingh@users.noreply.github.com**
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/omjishingh)
-- 🌐 Portfolio: [your-site.com](https://your-site.com)
+- 📧 Email: [omjishingh@users.noreply.github.com](mailto:omjishingh@users.noreply.github.com)
+- 📸 Instagram: [@yoursom__](https://www.instagram.com/yoursom__)
+- 💻 GitHub: [@omjishingh](https://github.com/omjishingh)
 
 ---
 
